@@ -7,6 +7,7 @@ Install [Chrome browser](https://www.google.com/chrome/), set as default and log
 - ITerm2 and its [setup](https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c)
 - [VSCode](https://code.visualstudio.com/)
 - [Setup Github account](https://docs.github.com/en/get-started/quickstart/set-up-git)
+- [Setup git alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 
 ## App
 - [BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12)
