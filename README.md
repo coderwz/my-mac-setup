@@ -17,3 +17,4 @@ Install [Chrome browser](https://www.google.com/chrome/), set as default and log
 
 ## Misc
 - Always show bluetooth icon in [menu bar](https://support.apple.com/en-bh/guide/macbook-pro/apdbd44531c5/mac#:~:text=Tip%3A%20If%20you%20don't,in%20Menu%20Bar%20for%20Bluetooth.).
+- [Change](https://apple.stackexchange.com/questions/299676/how-do-i-change-the-shortcut-for-lock-screen) lock screen keyboard shotcut to `CMD + L`.
