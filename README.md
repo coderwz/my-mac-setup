@@ -15,6 +15,24 @@ Install [Chrome browser](https://www.google.com/chrome/), set as default and log
 - [Alfred](https://www.alfredapp.com/)
 - [noTunes](https://github.com/tombonez/noTunes)
 
+## VSCode
+- [Clang-Format](https://github.com/xaverh/vscode-clang-format)
+- [Code Spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+## git config
+
+```shell
+[alias]
+      co = checkout
+      br = branch
+      ci = commit
+      st = status
+      hs = log --pretty='%C(yellow)%h %C(cyan)%cd %Cblue%aN%C(auto)%d %Creset%s' --graph --date=relative --date-order
+      amend = commit --amend --no-edit
+      am = commit --amend --no-edit
+      cp = cherry-pick
+```
+
 ## Misc
 - Always show bluetooth icon in [menu bar](https://support.apple.com/en-bh/guide/macbook-pro/apdbd44531c5/mac#:~:text=Tip%3A%20If%20you%20don't,in%20Menu%20Bar%20for%20Bluetooth.).
 - [Change](https://apple.stackexchange.com/questions/299676/how-do-i-change-the-shortcut-for-lock-screen) lock screen keyboard shotcut to `CMD + L`.
