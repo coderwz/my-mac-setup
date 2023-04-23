@@ -15,6 +15,7 @@ Install [Chrome browser](https://www.google.com/chrome/), set as default and log
 - [Alfred](https://www.alfredapp.com/)
 - [noTunes](https://github.com/tombonez/noTunes)
 - [shottr](https://shottr.cc/)
+- [AppCleaner](https://freemacsoft.net/appcleaner/)
 
 ## VSCode
 - [Clang-Format](https://github.com/xaverh/vscode-clang-format)
