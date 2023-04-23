@@ -10,10 +10,11 @@ Install [Chrome browser](https://www.google.com/chrome/), set as default and log
 - [Setup git alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
 
 ## App
-- [BetterSnapTool](https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12)
+- [Rectangle](https://rectangleapp.com/)
 - [Mos](https://mos.caldis.me/)
 - [Alfred](https://www.alfredapp.com/)
 - [noTunes](https://github.com/tombonez/noTunes)
+- [shottr](https://shottr.cc/)
 
 ## VSCode
 - [Clang-Format](https://github.com/xaverh/vscode-clang-format)
